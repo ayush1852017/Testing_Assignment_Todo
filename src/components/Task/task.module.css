@@ -1,0 +1,8 @@
+.task {
+  display: flex;
+  gap: 5px;
+}
+
+.task > div {
+  margin-right: 20px;
+}

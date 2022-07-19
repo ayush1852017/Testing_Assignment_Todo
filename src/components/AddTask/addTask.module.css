@@ -1,0 +1,8 @@
+.addTask {
+  /* Sample */
+}
+.todoForm {
+  margin: 0 3rem;
+  display: flex;
+  gap: 10px;
+}

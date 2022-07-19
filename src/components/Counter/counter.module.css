@@ -1,0 +1,10 @@
+.counter {
+  /* TODO */
+}
+.counter > span {
+  background-color: tomato;
+  padding: 0 0.4rem;
+  color: #fff;
+  border-radius: 50%;
+  margin: 0 0.5rem;
+}

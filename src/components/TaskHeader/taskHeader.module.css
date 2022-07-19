@@ -1,0 +1,9 @@
+.taskHeader {
+  /* Sample */
+  display: flex;
+  gap: 10px;
+  margin: 0.5rem 3rem;
+}
+.taskHeader > b {
+  font-size: 1.2rem;
+}
